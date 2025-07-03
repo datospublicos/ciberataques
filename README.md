@@ -1,6 +1,13 @@
 
 Un listado de los ciberataques conocidos a instituciones públicas del Estado Español.
 
+# 2025
+
+
+| Fecha | Entidad | Tipo | Descripción | Referencias |
+| --- | --- | --- | --- | --- |
+| 2 Julio | Ayuntamiento de la Vila Joiosa | Ransomware | - |  [[1]](https://alicanteplaza.es/alicanteplaza/marinabaixa/el-ayuntamiento-de-la-vila-joiosa-victima-de-un-ataque-cibernetico-los-servicios-basicos-inoperativos) |
+
 # 2024
 
 | Fecha | Entidad | Tipo | Descripción | Referencias |
